@@ -1,3 +1,9 @@
 # Learning-JS
-My practice code to learn JavaScript for the first time | 1/1/2025
+This repository contains my practice projects for learning JavaScript.
 
+## Purpose
+To improve my JavaScript coding skills through small projects and exercises.
+
+## Features
+- Beginner-friendly JavaScript code examples.
+- Basic algorithms and DOM manipulation exercises.
